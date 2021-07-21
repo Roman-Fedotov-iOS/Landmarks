@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Askania-Nova",
+        "category": "Biosphere Reserves",
+        "city": "Askania-Nova Village",
+        "state": "Kherson Oblast",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Askania-Nova",
+        "coordinates": {
+            "longitude": 33.8666632,
+            "latitude": 46.4499982
+        },
+        "description": "The reserve consists of the acclimatization zoo, arboretum (2.1 km², or 518.9 acre), and virgin steppe sanctuary (110 km², or 42.5 sq mi), the last such area in Europe) and has total area of 825 km² (318.5 sq mi). In addition to local species it hosts ostriches, bison, antelopes, wild horses, llamas, zebras and many bird species. More than 200 species of foliaceous and coniferous plants were brought from different parts of the world and planted in the dendrologic garden during 1885 – 1902. About 600 higher plants (both perennial and annual), 16 species of which were entered to the Red Data Book of Ukraine, have been preserved in their primary natural form.",
+        "imageName": "askania-nova"
+    },
+    {
+        "name": "Lake Synevyr",
+        "category": "Lakes",
+        "city": "Khust",
+        "state": "Zakarpatska Oblast",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Synevyr National Nature Park",
+        "coordinates": {
+            "longitude": 23.684000,
+            "latitude": 48.617000
+        },
+        "description": "Lake Synevyr is located in the northwestern part of the National Nature Park Synevyr near the foothills of the 1,495-meter-tall Mount Ozerna. It belongs to the region of Pryvododilni Gorgany and is located at an elevation of 989 meters above sea level. The lake was created in the post-Ice Age period (around ten thousand years ago) due to a powerful earthquake-induced tectonic shift of indigenous sandstone from the southern slope of Mount Krasna which blocked a narrow stream valley. Its waters flow through the porous natural dam and return to the surface 350 meters to the west of the lake, 60 meters below the average lake level.",
+        "imageName": "lake-synevyr"
+    },
+    {
+        "name": "Sofiyivsky Park",
+        "category": "Botanical Gardens",
+        "city": "Uman",
+        "state": "Cherkasy Oblast",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Sofiyivsky Park",
+        "coordinates": {
+            "longitude": 30.239499042,
+            "latitude": 48.758496966
+        },
+        "description": "Park starts with 'Main entrance' on Sadova Street. The central alley starts after main entrance. Main entrance towers, which were built in 1850–1852, are still standing there. Tourist service center, which is now called 'The House of Science Art' is located close. This building has original architecture with observation area on the top. Besides museum, the building has hotel, restaurant and sauna. Long time the entrance of the park was decorated with Black Poplars (trees with triangle shape). From Sofiyivsky park these trees became very popular all around Russian Empire. Before 1996, on the right side from entrance, small historical museum was located. It was built in 1957 and was used as laboratory. After 1980 it was modified to museum to train guides. In 1996 all exhibits were moved to administrative building. Now from the place of former museum you can see granitic cliffs and small 'Geneva lake' which appeared here in the 1930s.",
+        "imageName": "sofiyivsky-park"
+    },
+    {
+        "name": "Oleksandriya Park",
+        "category": "Botanical Gardens",
+        "city": "Bila Tserkva",
+        "state": "Kyiv Oblast",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Oleksandriya Park",
+        "coordinates": {
+            "longitude": 30.077642,
+            "latitude": 49.814686
+        },
+        "description": "In 1774, the Polish King Augustus Stanislaw Poniatowski received the wealthiest in Ukraine Belotserkovsky. On December 13, 1774, the Crown Prince Hetman of Poland Franciszek Ksawery Branicki received land from the Polish-Lithuanian Commonwealth. Ksawery Branicki received these lands as a reward for the suppression of Cretaceous-Cossack uprisings at Koliivshchyna. His new possessions included the cities of Bila Tserkva and Skvyra, including 134 villages with a population of over 40 thousand people. Since then, the Bila Tserkva has become the private property of the Branicki Counts.",
+        "imageName": "oleksandriya-park"
+    },
+    {
+        "name": "Gorky Park",
+        "category": "Amusement Park",
+        "city": "Kharkiv",
+        "state": "Kharkiv Oblast",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Gorky Park",
+        "coordinates": {
+            "longitude": 36.245,
+            "latitude": 50.02
+        },
+        "description": "In 2006 the city restored the colonnade at the entrance to the park and in 2007 the park's fountain was restored. The park features tennis courts, a movie theatre, a children's railway, and an aerial cableway. In 2005 the City authorities considered the possibility of building a tunnel under the park to relieve traffic congestion. This proposal did not proceed however the authorities did proceed with a plan to build a road though the park. To this end, in February 2008, 9.9 hectares of the park from Sumskaya Street to Novgorodskaya Street were transferred to the Department of Construction, Maintenance and Reconstruction for the building of a road, a hotel complex and some private dwellings. At the same time another 12.8 hectares of park land was granted a change of status to enable the construction of residential and public buildings. These grants effectively reduced the park's size to 107 hectares.",
+        "imageName": "gorky-park"
+    },
+    {
+        "name": "Khotyn Fortress",
+        "category": "Fortresses",
+        "city": "Khotyn",
+        "state": "Chernivtsi Oblast",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Khotyn Fortification Complex",
+        "coordinates": {
+            "longitude": 26.498333,
+            "latitude": 48.521944
+        },
+        "description": "The Khotyn Fortress' beginning goes back to the Khotyn Fort, which was built in the 10th century by Prince Vladimir Sviatoslavich as one of the border fortifications of southwestern Kyivan Rus', after he added the land of present-day Bukovina to his control. The fort, which eventually was rebuilt a fortress, was located on important transportation routes, which connected Scandinavia and Kyiv with the Ponyzia (lowlands), Podillia, Genoese and Greek colonies on the Black Sea, through Moldavia and Wallachia, on the famous 'trade route from the Varangians to the Greeks'. The fortification was located on a rocky territory, created by the tall right-hand shore of the Dniester and the valley. At first it was just a huge mound of dirt with wooden walls and protective equipment. It was designed to protect the settlement of Khotyn across the river. The first stone construction was rather small. It was located exactly where the northern tower is located today. Throughout the centuries, this fortress underwent many reconstructions and expansions, and was damaged by new conquerors, who would later rebuild it. At the end of the 11th century, Khotyn fortress belonged to Terebovlia principality. During the 1140s the fortress became part of Halych Principality, and in 1199 was part of the Halych-Volhynian Kingdom.",
+        "imageName": "khotyn-fortress"
+    },
+    {
+        "name": "Lake Lemuria",
+        "category": "Lakes",
+        "city": "Hryhorivka",
+        "state": "Kherson oblast",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "-",
+        "coordinates": {
+            "longitude": 33.736111,
+            "latitude": 46.241111
+        },
+        "description": "The origins of the lake are disputed. According to one theory, on August 26, 1969, a Soviet bomber crashed on the shores of Syvash. Rescuers allegedly breached salty aquifers while digging to a depth of 18 meters to collect the remains of the bomber. The lake was later formed when underground water filled the excavation. Residents of the surrounding villages named the lake 'Yama' and often went for a swim for fun. After some time, stories about the healing properties of the salt water of the lake began to spread. This allowed starting the development of green tourism in this region. Supporters of Helena Blavatsky's esoteric ideas named the lake, as a reference to the mythical continent Lemuria.",
+        "imageName": "lake-lemuria"
+    },
+    {
+        "name": "Tunnel of Love",
+        "category": "Tunnels",
+        "city": "Klevan",
+        "state": "Rivne Oblast",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "-",
+        "coordinates": {
+            "longitude": 26.045333,
+            "latitude": 50.750706
+        },
+        "description": "The line starts at Klevan station, on the Kovel-Rivne line, and reaches the northern area of Orzhiv, also served by a station on the main line. The whole line is about 6.4 km long., and about 4.9 km is covered by forest, within which this tunnel stretches anywhere from 3 to said 4.9 km, depending on how individuals measure it.",
+        "imageName": "tunnel-of-love"
+    },
+    {
+        "name": "Derzhprom",
+        "category": "Buildings",
+        "city": "Kharkiv",
+        "state": "Kharkiv Oblast",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "-",
+        "coordinates": {
+            "longitude": 36.230528,
+            "latitude": 50.005194
+        },
+        "description": "The grand opening of the First Soviet skyscraper took place on November 7, 1928. The building was one of a few showcase projects designed when Kharkiv was the capital of the Ukrainian SSR. It was built by architects Sergei Serafimov, S.Kravets and M.Felger in only three years. The building became the most spacious single structure in the world by the year of its completion in 1928 to be surpassed by New York's skyscrapers in 1930s. Its unique feature lies in the symmetry which can only be felt at one point, in the centre of the square.",
+        "imageName": "derzhprom"
+    },
+]
